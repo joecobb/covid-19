@@ -1,0 +1,45 @@
+.container{
+  margin-right:15%;
+  margin-left:15%;
+}
+.summary mat-card{
+  width: 100%;
+  margin:10px;
+}
+.countries {
+padding: 10px;
+}
+#updated-wrapper{
+text-align: right;
+ color: white;
+ margin-top:90px;
+margin-bottom:10px;
+}
+
+.updated-text{
+  background-color: rgb(78, 75, 187);
+  margin-right: 10px;
+  padding: 3px;
+
+  border-radius: 5px;
+}
+
+.item-label{
+font-weight: bold;
+margin-right: 10px;
+margin-left: 20px;
+}
+
+.item-recovered{
+  color:rgb(15, 161, 15);
+  font-size:1.2em;
+}
+.item-neutral{
+  color:blue;
+  font-size:1.2em;
+}
+
+.item-dead{
+  color:rgb(194, 30, 30);
+  font-size:1.2em;
+}
